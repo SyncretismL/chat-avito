@@ -1,2 +1,5 @@
 # chat-avito
-test
+Start:
+```
+docker-compose up
+```
